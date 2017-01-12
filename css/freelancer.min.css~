@@ -1,6 +1,6 @@
 .mytext{
    text-align:justify;
-   
+    font-size: 150%;
 }
 
 .portfolio-modal .modal-content {

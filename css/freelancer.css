@@ -7,11 +7,11 @@
   border: none;
   min-height: 100%;
   padding: 100px 0;
-  text-align: center;
+  text-align: justify;
 }
 .portfolio-modal .modal-content h2 {
   margin: 0;
-  font-size: 3em;
+  font-size: 5em;
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
