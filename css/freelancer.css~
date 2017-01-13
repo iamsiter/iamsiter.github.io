@@ -11,8 +11,7 @@
 }
 .portfolio-modal .modal-content h2 {
   margin: 0;
- font-size: 110%;
- /*font-size: 3em;*/
+  font-size: 5em;
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
